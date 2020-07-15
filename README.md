@@ -1,4 +1,3 @@
 # hello-world
-first repository
 
-testing github
+HELLO WORLD
